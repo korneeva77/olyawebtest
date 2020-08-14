@@ -1,0 +1,24 @@
+
+body, td, tr, p {
+    text-align: center;
+    color: black;
+    background-color: lemonchiffon;
+    font-size: 30px;
+
+}
+table {
+    border-bottom-color: brown;
+    border: 5px;
+    width: 100%;
+}
+
+.first1 {
+    color: saddlebrown;
+    font-size: 30px;
+}
+
+.first2 {
+    color: saddlebrown;
+    font-size: 20px;
+}
+
